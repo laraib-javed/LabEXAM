@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|c:\\users\\user\\source\\repos\\lab\\viewfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|solutionrelative:viewfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|c:\\users\\user\\source\\repos\\lab\\addfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|solutionrelative:addfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|c:\\users\\user\\source\\repos\\lab\\stats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|solutionrelative:stats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|c:\\users\\user\\source\\repos\\lab\\stats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|solutionrelative:stats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|c:\\users\\user\\source\\repos\\lab\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|c:\\users\\user\\source\\repos\\lab\\viewfeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|solutionrelative:viewfeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|c:\\users\\user\\source\\repos\\lab\\addfeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC01A7-60F7-48C0-A451-BE9DF1D6D362}|LAB.csproj|solutionrelative:addfeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LAB\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LAB\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:24:10.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewFeedback.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LAB\\ViewFeedback.aspx",
+              "RelativeDocumentMoniker": "ViewFeedback.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LAB\\ViewFeedback.aspx",
+              "RelativeToolTip": "ViewFeedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-30T00:54:41.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewFeedback.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LAB\\ViewFeedback.aspx.cs",
+              "RelativeDocumentMoniker": "ViewFeedback.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LAB\\ViewFeedback.aspx.cs",
+              "RelativeToolTip": "ViewFeedback.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:56:42.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddFeedback.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LAB\\AddFeedback.aspx",
+              "RelativeDocumentMoniker": "AddFeedback.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LAB\\AddFeedback.aspx",
+              "RelativeToolTip": "AddFeedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-30T00:19:00.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stats.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LAB\\Stats.aspx",
+              "RelativeDocumentMoniker": "Stats.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LAB\\Stats.aspx",
+              "RelativeToolTip": "Stats.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-29T23:10:56.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stats.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LAB\\Stats.aspx.cs",
+              "RelativeDocumentMoniker": "Stats.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LAB\\Stats.aspx.cs",
+              "RelativeToolTip": "Stats.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:05:39.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddFeedback.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LAB\\AddFeedback.aspx.cs",
+              "RelativeDocumentMoniker": "AddFeedback.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LAB\\AddFeedback.aspx.cs",
+              "RelativeToolTip": "AddFeedback.aspx.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:12:26.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
